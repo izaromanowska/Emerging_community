@@ -1,355 +1,1334 @@
 ,degree_cat,value,colab_cat
-0,,Netlogo,
-1,,Python,
-2,,Netlogo,
-3,,Netlogo,
-4,,Netlogo,
-5,,Netlogo,
-6,,Netlogo,
-7,,Python,
-8,,Netlogo,
-9,,Python,
-10,,R,
-11,,Mason,
-12,,Netlogo,
-13,,Netlogo,
-14,,Netlogo,
-15,,Netlogo,
-16,,Netlogo,
-17,,Netlogo,
-18,,Netlogo,
-19,,Netlogo,
-20,,Netlogo,
-21,,Netlogo,
-22,,Netlogo,
-23,,Netlogo,
-24,,Netlogo,
-25,,Netlogo,
-26,,Netlogo,
-27,,Delphi,
-28,,Netlogo,
-29,,Netlogo,
-30,,artisoc,
-31,,Netlogo,
-32,,Netlogo,
-33,,C++,
-34,,Netlogo,
-35,,Netlogo,
-36,,C++,
-37,,Netlogo,
-38,,Netlogo,
-39,,Netlogo,
-40,,Netlogo,
-41,,Netlogo,
-42,,Gama,
-43,,Repast,
-44,,Netlogo,
-45,,Repast,
-46,,Netlogo,
-47,,Netlogo,
-48,,Netlogo,
-49,,Netlogo,
-50,,Netlogo,
-51,,Netlogo,
-52,,Netlogo,
-53,,Netlogo,
-54,,Netlogo,
-55,,Netlogo,
-56,,Netlogo,
-57,,Netlogo,
-58,,R,
-59,,Python,
-60,,C++,
-61,,Python,
-62,,,
-63,,,
-64,,,
-65,,R,
-66,,C++,
-67,,Python,
-68,,R,
-69,,,
-70,,Java,
-71,,,
-72,,Repast,
-73,,,
-74,,Repast,
-75,,Python,
-76,,C++,
-77,,,
-78,,Python,
-79,,Gama,
-80,,Python,
-81,,Java,
-82,,Swarm,
-83,,C++,
-84,,R,
-85,,R,
-86,,,
-87,,,
-88,,Pascal,
-89,,,
-90,,Python,
-91,,,
-92,,R,
-93,,,
-94,,R,
-95,,Matlab,
-96,,C++,
-97,,AnyLogic,
-98,,,
-99,,,
-100,,,
-101,,,
-102,,Swarm,
-103,,Mason,
-104,,Swarm,
-105,,Repast,
-106,,,
-107,,,
-108,,Repast,
-109,,Java,
-110,,R,
-111,,,
-112,,,
-113,,Java,
-114,,,
-115,,Mason,
-116,,Python,
-117,,,
-118,,,
-119,,,
-120,,,
-121,,,
-122,,,
-123,,,
-124,,,
-125,,Java,
-126,,,
-127,,,
-128,,,
-129,,,
-130,,,
-131,,Mason,
-132,,,
-133,,R,
-134,,,
-135,,C,
-136,,,
-137,,,
-138,,,
-139,,R,
-140,,,
-141,,Python,
-142,,Java,
-143,,,
-144,,,
-145,,,
-146,,,
-147,,,
-148,,,
-149,,C++,
-150,,,
-151,,,
-152,,,
-153,,,
-154,,,
-155,,Java,
-156,,R,
-157,,,
-158,,,
-159,,,
-160,,,
-161,,,
-162,,Java,
-163,,Java,
-164,,Java,
-165,,,
-166,,,
-167,,Python,
-168,,,
-169,,,
-170,,,
-171,,,
-172,,Matlab,
-173,,,
-174,,,
-175,,,
-176,,,
-177,,,
-178,,,
-179,,,
-180,,,
-181,,,
-182,,,
-183,,,
-184,,,
-185,,,
-186,,,
-187,,,
-188,,,
-189,,,
-190,,R,
-191,,,
-192,,,
-193,,,
-194,,,
-195,,,
-196,,,
-197,,,
-198,,,
-199,,,
-200,,Java,
-201,,,
-202,,,
-203,,,
-204,,,
-205,,,
-206,,,
-207,,,
-208,,C,
-209,,,
-210,,,
-211,,,
-212,,,
-213,,,
-214,,,
-215,,,
-216,,,
-217,,,
-218,,,
-219,,,
-220,,,
-221,,,
-222,,,
-223,,,
-224,,,
-225,,,
-226,,Java,
-227,,,
-228,,,
-229,,,
-230,,,
-231,,,
-232,,,
-233,,,
-234,,,
-235,,,
-236,,,
-237,,,
-238,,,
-239,,,
-240,,,
-241,,,
-242,,,
-243,,,
-244,,,
-245,,,
-246,,,
-247,,,
-248,,,
-249,,,
-250,,,
-251,,,
-252,,,
-253,,,
-254,,,
-255,,,
-256,,,
-257,,,
-258,,,
-259,,R,
-260,,,
-261,,,
-262,,,
-263,,,
-264,,,
-265,,,
-266,,,
-267,,,
-268,,,
-269,,,
-270,,,
-271,,,
-272,,,
-273,,,
-274,,,
-275,,,
-276,,,
-277,,,
-278,,,
-279,,,
-280,,,
-281,,,
-282,,,
-283,,,
-284,,,
-285,,,
-286,,,
-287,,,
-288,,,
-289,,,
-290,,,
-291,,,
-292,,,
-293,,,
-294,,,
-295,,,
-296,,,
-297,,,
-298,,,
-299,,,
-300,,,
-301,,,
-302,,,
-303,,,
-304,,,
-305,,,
-306,,,
-307,,,
-308,,,
-309,,,
-310,,,
-311,,,
-312,,,
-313,,,
-314,,,
-315,,,
-316,,,
-317,,,
-318,,Matlab,
-319,,,
-320,,,
-321,,,
-322,,,
-323,,,
-324,,,
-325,,,
-326,,,
-327,,,
-328,,,
-329,,,
-330,,,
-331,,,
-332,,,
-333,,,
-334,,,
-335,,,
-336,,,
-337,,,
-338,,,
-339,,,
-340,,,
-341,,,
-342,,,
-343,,,
-344,,,
-345,,,
-346,,,
-347,,,
-348,,,
-349,,,
-350,,,
-351,,,
-352,,,
-353,,,
+0,Humanities,computer science,STEM
+1,STEM,climate science,Life Science
+2,Humanities,computer science,STEM
+3,Humanities,computer science,STEM
+4,Humanities,computer science,STEM
+5,Social Science,computer science,STEM
+6,Humanities,mathematics,STEM
+7,STEM,physics,STEM
+8,Humanities,computer science,STEM
+9,Humanities,computer science,STEM
+10,Humanities,climate science,Life Science
+11,Humanities,computer science,STEM
+12,Humanities,physical geography,Life Science
+13,STEM,computer science,STEM
+14,Humanities,computer science,STEM
+16,Humanities,computer science,STEM
+17,Humanities,climate science,Life Science
+20,Social Science,computer science,STEM
+21,Humanities,computer science,STEM
+22,Humanities,geology,STEM
+23,Humanities,computer science,STEM
+24,Life Science,climate science,Life Science
+25,Humanities,climate science,Life Science
+26,Humanities,climate science,Life Science
+27,STEM,geology,STEM
+28,Humanities,palaeontology,Life Science
+31,Life Science,computer science,STEM
+32,Life Science,computer science,STEM
+33,Humanities,computer science,STEM
+34,Humanities,ecology,Life Science
+35,Humanities,climate science,Life Science
+36,STEM,computer science,STEM
+37,Humanities,computer science,STEM
+38,Humanities,computer science,STEM
+39,Life Science,computer science,STEM
+41,Humanities,computer science,STEM
+42,Social Science,computer science,STEM
+43,Humanities,computer science,STEM
+44,STEM,computer science,STEM
+45,Humanities,computer science,STEM
+46,Humanities,computer science,STEM
+47,Humanities,sociology,Social Science
+49,Humanities,computer science,STEM
+50,Humanities,sociology,Social Science
+51,STEM,climate science,Life Science
+52,Humanities,computer science,STEM
+53,Humanities,computer science,STEM
+54,STEM,computer science,STEM
+55,Humanities,sociology,Social Science
+56,STEM,computer science,STEM
+57,Humanities,computer science,STEM
+58,Humanities,sociology,Social Science
+59,Humanities,physics,STEM
+60,STEM,environmental science,Life Science
+61,Humanities,climate science,Life Science
+62,Humanities,,
+63,Humanities,,
+64,Social Science,climate science,Life Science
+65,Humanities,,
+66,STEM,Archaeologists,Humanities
+67,Humanities,climate science,Life Science
+68,Humanities,ecology,Life Science
+69,Humanities,environmental science,Life Science
+70,Humanities,climate science,Life Science
+71,Humanities,geographic information science,STEM
+72,STEM,physics,STEM
+73,Humanities,climate science,Life Science
+74,Humanities,,
+75,Humanities,climate science,Life Science
+76,Humanities,environmental science,Life Science
+77,Humanities,only archaeologists,Humanities
+78,Humanities,,
+79,Social Science,,
+80,Humanities,climate science,Life Science
+81,Humanities,geochemistry,STEM
+82,Humanities,physics,STEM
+83,Life Science,environmental science,Life Science
+84,Humanities,environmental science,Life Science
+85,Humanities,environmental science,Life Science
+86,STEM,geochemistry,STEM
+87,Humanities,palaeoanthropology,Humanities
+88,Humanities,,
+90,Life Science,physics,STEM
+91,Life Science,geology,STEM
+92,Humanities,physical geography,Life Science
+93,Humanities,biology,Life Science
+94,Humanities,environmental science,Life Science
+95,STEM,ecology,Life Science
+96,Humanities,climate science,Life Science
+97,Humanities,physics,STEM
+98,Life Science,ecology,Life Science
+99,Humanities,,
+100,Humanities,climate science,Life Science
+101,Social Science,physical geography,Life Science
+102,Humanities,climate science,Life Science
+103,STEM,ecology,Life Science
+104,Humanities,physics,STEM
+105,Humanities,climate science,Life Science
+106,Humanities,social/cultural anthropology,Humanities
+107,Humanities,,
+108,Humanities,climate science,Life Science
+109,Humanities,social/cultural anthropology,Humanities
+110,STEM,environmental science,Life Science
+111,Humanities,physics,STEM
+112,Humanities,sociology,Social Science
+113,STEM,geology,STEM
+114,Humanities,social/cultural anthropology,Humanities
+115,STEM,climate science,Life Science
+116,Humanities,climate science,Life Science
+117,Humanities,social/cultural anthropology,Humanities
+118,Humanities,climate science,Life Science
+120,Humanities,environmental science,Life Science
+121,Humanities,,
+122,Humanities,,
+123,Social Science,environmental science,Life Science
+124,Humanities,,
+126,Humanities,environmental science,Life Science
+127,Humanities,biology,Life Science
+129,Humanities,environmental science,Life Science
+131,STEM,sociology,Social Science
+132,Humanities,environmental science,Life Science
+133,Humanities,,
+134,Humanities,environmental science,Life Science
+136,Humanities,,
+137,Humanities,,
+138,Social Science,,
+139,Humanities,environmental science,Life Science
+140,Humanities,geomorphology,STEM
+141,Humanities,climate science,Life Science
+145,STEM,geomorphology,STEM
+147,Humanities,,
+148,Humanities,,
+149,Life Science,ecology,Life Science
+150,Life Science,geochemistry,STEM
+151,Humanities,geographic information science,STEM
+152,Humanities,genetics,Life Science
+154,STEM,biology,Life Science
+155,Humanities,environmental science,Life Science
+156,Humanities,sociology,Social Science
+157,Life Science,biology,Life Science
+158,Humanities,,
+159,Humanities,environmental science,Life Science
+160,Social Science,geographic information science,STEM
+161,Humanities,environmental science,Life Science
+162,STEM,biology,Life Science
+163,Humanities,climate science,Life Science
+164,Humanities,environmental science,Life Science
+166,Humanities,,
+167,Humanities,environmental science,Life Science
+170,Humanities,,
+171,Humanities,social/cultural anthropology,Humanities
+172,STEM,geochemistry,STEM
+174,STEM,environmental science,Life Science
+175,Humanities,environmental science,Life Science
+177,Humanities,environmental science,Life Science
+178,STEM,sociology,Social Science
+180,Humanities,,
+181,Humanities,,
+183,Humanities,,
+184,STEM,,
+186,Humanities,genetics,Life Science
+187,Humanities,geology,STEM
+190,STEM,social/cultural anthropology,Humanities
+192,Humanities,,
+194,Humanities,ecology,Life Science
+195,Humanities,,
+196,Humanities,,
+197,Social Science,,
+200,Humanities,environmental science,Life Science
+201,Life Science,ecology,Life Science
+202,Humanities,ecology,Life Science
+203,Humanities,geology,STEM
+205,Humanities,,
+206,Humanities,,
+207,Humanities,,
+208,Life Science,biology,Life Science
+209,Life Science,geomorphology,STEM
+212,Humanities,ecology,Life Science
+213,STEM,genetics,Life Science
+215,Humanities,social/cultural anthropology,Humanities
+216,Life Science,genetics,Life Science
+217,Humanities,,
+221,STEM,genetics,Life Science
+222,Humanities,environmental science,Life Science
+224,Humanities,palaeontology,Life Science
+225,Humanities,,
+227,Humanities,palaeontology,Life Science
+228,STEM,ecology,Life Science
+229,Humanities,,
+231,STEM,geomorphology,STEM
+232,Humanities,,
+235,Humanities,,
+237,STEM,social/cultural anthropology,Humanities
+238,Humanities,geology,STEM
+239,Humanities,,
+240,Humanities,,
+241,Social Science,ecology,Life Science
+242,Humanities,,
+243,STEM,,
+244,Humanities,geology,STEM
+246,Humanities,geochemistry,STEM
+247,Humanities,ecology,Life Science
+248,Humanities,,
+250,Humanities,geology,STEM
+251,Humanities,,
+252,Humanities,geology,STEM
+253,Humanities,biology,Life Science
+254,Humanities,,
+255,Humanities,,
+256,Social Science,,
+257,Humanities,geology,STEM
+258,Humanities,sociology,Social Science
+260,Life Science,biology,Life Science
+261,Humanities,biology,Life Science
+262,Humanities,geochemistry,STEM
+263,STEM,,
+264,Humanities,,
+265,Humanities,,
+266,Humanities,,
+267,Life Science,genetics,Life Science
+269,Humanities,,
+270,Humanities,sociology,Social Science
+271,Humanities,biology,Life Science
+273,Humanities,geology,STEM
+276,Humanities,,
+277,Humanities,ecology,Life Science
+278,Social Science,,
+279,Humanities,geology,STEM
+282,Humanities,geology,STEM
+283,Humanities,palaeoanthropology,Humanities
+284,Humanities,,
+285,Humanities,physical geography,Life Science
+286,Humanities,palaeoanthropology,Humanities
+287,STEM,biology,Life Science
+288,Humanities,,
+289,Humanities,,
+291,Humanities,,
+292,STEM,ecology,Life Science
+293,Humanities,geology,STEM
+294,Humanities,,
+295,Humanities,,
+297,Humanities,geochemistry,STEM
+298,Humanities,,
+299,Humanities,,
+300,Social Science,biology,Life Science
+301,Humanities,,
+302,STEM,,
+303,Humanities,geochemistry,STEM
+304,Humanities,sociology,Social Science
+305,Humanities,geomorphology,STEM
+306,Humanities,biology,Life Science
+307,Humanities,,
+308,STEM,mathematics,STEM
+309,Humanities,geochemistry,STEM
+310,Humanities,,
+311,Humanities,geochemistry,STEM
+312,Humanities,genetics,Life Science
+313,Humanities,,
+314,Humanities,,
+315,Social Science,,
+316,Humanities,geochemistry,STEM
+317,Humanities,social/cultural anthropology,Humanities
+318,Humanities,geology,STEM
+319,Life Science,genetics,Life Science
+320,Humanities,genetics,Life Science
+321,Humanities,geomorphology,STEM
+322,STEM,,
+323,Humanities,,
+324,Humanities,,
+325,Humanities,,
+327,Life Science,physical geography,Life Science
+328,Humanities,,
+329,Humanities,social/cultural anthropology,Humanities
+330,Humanities,genetics,Life Science
+331,STEM,sociology,Social Science
+332,Humanities,geochemistry,STEM
+333,Humanities,Econometry,Social Science
+334,Life Science,physical geography,Life Science
+335,Humanities,,
+336,Humanities,biology,Life Science
+337,Social Science,,
+338,Humanities,geochemistry,STEM
+339,STEM,sociology,Social Science
+340,Humanities,geology,STEM
+341,Humanities,geochemistry,STEM
+343,Humanities,,
+344,Humanities,geographic information science,STEM
+346,STEM,genetics,Life Science
+347,Humanities,,
+348,Humanities,,
+349,STEM,sociology,Social Science
+350,Humanities,,
+351,STEM,biology,Life Science
+352,Humanities,geochemistry,STEM
+353,Humanities,,
+354,Humanities,,
+355,STEM,history,Humanities
+356,Humanities,geomorphology,STEM
+357,Humanities,,
+358,Humanities,,
+359,Social Science,genetics,Life Science
+360,Humanities,,
+361,STEM,,
+362,Humanities,geomorphology,STEM
+363,Humanities,social/cultural anthropology,Humanities
+365,Humanities,genetics,Life Science
+366,Humanities,,
+367,STEM,,
+368,Humanities,geomorphology,STEM
+369,Humanities,,
+370,Humanities,geomorphology,STEM
+372,Humanities,,
+373,Humanities,,
+374,Social Science,,
+375,Humanities,geomorphology,STEM
+377,Humanities,geochemistry,STEM
+381,STEM,,
+382,Humanities,,
+383,Humanities,,
+384,Humanities,,
+385,Life Science,sociology,Social Science
+386,Life Science,geographic information science,STEM
+387,Humanities,,
+390,STEM,social/cultural anthropology,Humanities
+391,Humanities,geomorphology,STEM
+392,Humanities,,
+393,Life Science,geographic information science,STEM
+394,Humanities,,
+395,Humanities,genetics,Life Science
+396,Social Science,,
+397,Humanities,geomorphology,STEM
+398,STEM,social/cultural anthropology,Humanities
+399,Humanities,geochemistry,STEM
+400,Humanities,geomorphology,STEM
+401,Humanities,cognitive science,Social Science
+402,Humanities,,
+404,Humanities,,
+406,Humanities,,
+407,Humanities,,
+408,STEM,social/cultural anthropology,Humanities
+409,Humanities,,
+410,STEM,genetics,Life Science
+411,Humanities,geomorphology,STEM
+412,Humanities,,
+413,Humanities,,
+414,STEM,,
+416,Humanities,,
+417,Humanities,,
+419,Humanities,,
+420,STEM,,
+423,Humanities,,
+425,Humanities,,
+426,STEM,,
+428,Humanities,,
+430,Humanities,physical geography,Life Science
+431,Humanities,,
+432,Humanities,,
+433,Social Science,,
+435,Humanities,,
+436,Humanities,geomorphology,STEM
+437,Life Science,physical geography,Life Science
+438,Humanities,physical geography,Life Science
+439,Humanities,physical geography,Life Science
+440,STEM,,
+441,Humanities,,
+442,Humanities,,
+443,Humanities,,
+444,Life Science,social/cultural anthropology,Humanities
+446,Humanities,,
+447,Humanities,cognitive science,Social Science
+448,Humanities,physical geography,Life Science
+451,Humanities,,
+453,Humanities,,
+455,Social Science,,
+458,Humanities,geomorphology,STEM
+460,Humanities,behavioural science,Social Science
+461,Humanities,,
+462,Humanities,,
+463,Humanities,,
+464,STEM,,
+465,Humanities,,
+466,Humanities,,
+468,Humanities,,
+471,Humanities,,
+472,Humanities,,
+473,STEM,,
+474,Humanities,ecology,Life Science
+475,Humanities,,
+476,Humanities,,
+477,Social Science,sociology,Social Science
+478,Humanities,,
+479,STEM,,
+480,Humanities,mathematics,STEM
+481,Humanities,mathematics,STEM
+482,Humanities,,
+483,Humanities,sociology,Social Science
+484,Humanities,,
+485,STEM,,
+486,Humanities,ecology,Life Science
+487,Humanities,,
+488,Humanities,ecology,Life Science
+489,Humanities,geographic information science,STEM
+490,Humanities,,
+491,Humanities,,
+492,Social Science,,
+493,Humanities,,
+494,Humanities,,
+496,Life Science,geographic information science,STEM
+497,Humanities,geographic information science,STEM
+498,Humanities,geographic information science,STEM
+499,STEM,,
+500,Humanities,,
+501,Humanities,,
+502,Humanities,,
+504,Life Science,palaeontology,Life Science
+505,Humanities,,
+506,Humanities,behavioural science,Social Science
+507,Humanities,geographic information science,STEM
+508,STEM,mathematics,STEM
+509,Humanities,ecology,Life Science
+510,Humanities,,
+511,Life Science,,
+512,Humanities,,
+513,Humanities,physical geography,Life Science
+514,Social Science,,
+515,Humanities,,
+516,STEM,cognitive science,Social Science
+518,Humanities,ecology,Life Science
+520,Humanities,,
+521,Humanities,,
+522,Humanities,,
+523,STEM,,
+524,Humanities,,
+525,Humanities,,
+526,STEM,physical geography,Life Science
+527,Humanities,,
+528,STEM,sociology,Social Science
+529,Humanities,ecology,Life Science
+530,Humanities,,
+531,Humanities,,
+532,STEM,,
+533,Humanities,biology,Life Science
+534,Humanities,,
+535,Humanities,,
+536,Social Science,social/cultural anthropology,Humanities
+537,Humanities,,
+538,STEM,,
+539,Humanities,,
+540,Humanities,,
+541,Humanities,,
+542,Humanities,social/cultural anthropology,Humanities
+543,Humanities,,
+544,STEM,,
+545,Humanities,biology,Life Science
+546,Humanities,,
+547,Humanities,biology,Life Science
+549,Humanities,,
+550,Humanities,,
+551,Social Science,,
+552,Humanities,,
+553,Humanities,,
+554,Humanities,ecology,Life Science
+558,STEM,,
+559,Humanities,,
+560,Humanities,,
+561,Humanities,,
+562,Life Science,palaeontology,Life Science
+563,Life Science,palaeoanthropology,Humanities
+564,Humanities,,
+567,STEM,,
+568,Humanities,biology,Life Science
+569,Humanities,,
+570,Life Science,,
+571,Humanities,,
+572,Humanities,geographic information science,STEM
+573,Social Science,,
+574,Humanities,,
+575,STEM,behavioural science,Social Science
+576,Humanities,ecology,Life Science
+577,Humanities,biology,Life Science
+578,Humanities,,
+579,Humanities,,
+580,Humanities,,
+581,Humanities,,
+582,STEM,,
+583,Humanities,,
+584,Humanities,,
+585,STEM,geographic information science,STEM
+586,Humanities,,
+587,STEM,social/cultural anthropology,Humanities
+588,Humanities,biology,Life Science
+589,Humanities,,
+590,Humanities,,
+591,STEM,,
+592,Humanities,genetics,Life Science
+593,Humanities,,
+594,Humanities,,
+596,Humanities,,
+597,STEM,,
+598,Humanities,,
+599,Humanities,,
+600,Humanities,,
+602,Humanities,,
+603,STEM,,
+604,Humanities,genetics,Life Science
+605,Humanities,,
+606,Humanities,genetics,Life Science
+607,Humanities,palaeontology,Life Science
+608,Humanities,,
+609,Humanities,,
+610,Social Science,,
+611,Humanities,,
+612,Humanities,,
+613,Humanities,biology,Life Science
+614,Life Science,,
+615,Humanities,,
+616,Humanities,palaeontology,Life Science
+617,STEM,,
+618,Humanities,,
+619,Humanities,,
+620,Humanities,,
+621,Life Science,palaeoanthropology,Humanities
+623,Humanities,,
+624,Humanities,,
+625,Humanities,,
+626,STEM,,
+627,Humanities,genetics,Life Science
+628,Humanities,,
+629,Life Science,,
+630,Humanities,,
+632,Social Science,,
+633,Humanities,,
+635,Humanities,biology,Life Science
+636,Humanities,genetics,Life Science
+637,Humanities,,
+638,Humanities,,
+639,Humanities,,
+640,Humanities,,
+641,STEM,,
+642,Humanities,,
+643,Humanities,,
+645,Humanities,,
+647,Humanities,genetics,Life Science
+648,Humanities,,
+649,Humanities,,
+650,STEM,,
+652,Humanities,,
+653,Humanities,,
+654,Social Science,palaeontology,Life Science
+655,Humanities,,
+656,STEM,,
+657,Humanities,,
+658,Humanities,,
+659,Humanities,,
+660,Humanities,physical geography,Life Science
+661,Humanities,,
+662,STEM,,
+664,Humanities,,
+666,Humanities,palaeoanthropology,Humanities
+667,Humanities,,
+668,Humanities,,
+669,Social Science,,
+670,Humanities,,
+671,Humanities,,
+672,Humanities,genetics,Life Science
+673,Life Science,,
+674,Humanities,,
+675,Humanities,palaeoanthropology,Humanities
+676,STEM,,
+677,Humanities,,
+678,Humanities,,
+679,Humanities,,
+681,Life Science,cognitive science,Social Science
+682,Humanities,,
+683,Humanities,,
+684,Humanities,,
+685,STEM,,
+687,Humanities,,
+688,Life Science,,
+689,Humanities,,
+690,Humanities,palaeontology,Life Science
+691,Social Science,,
+692,Humanities,,
+693,STEM,,
+694,Humanities,genetics,Life Science
+696,Humanities,,
+697,Humanities,,
+698,Humanities,,
+699,Humanities,,
+700,STEM,,
+701,Humanities,,
+702,Humanities,,
+703,STEM,cognitive science,Social Science
+704,Humanities,,
+705,STEM,cognitive science,Social Science
+707,Humanities,,
+708,Humanities,,
+709,STEM,,
+710,Humanities,sociology,Social Science
+711,Humanities,,
+712,Humanities,,
+713,Social Science,palaeoanthropology,Humanities
+714,Humanities,,
+715,STEM,,
+716,Humanities,,
+717,Humanities,,
+718,Humanities,,
+719,Humanities,geographic information science,STEM
+720,Humanities,,
+721,STEM,,
+722,Humanities,sociology,Social Science
+723,Humanities,,
+724,Humanities,sociology,Social Science
+726,Humanities,,
+727,Humanities,,
+728,Social Science,,
+729,Humanities,,
+730,Humanities,,
+732,Life Science,,
+733,Humanities,,
+735,STEM,,
+736,Humanities,,
+737,Humanities,,
+738,Humanities,,
+739,Life Science,cognitive science,Social Science
+740,Life Science,behavioural science,Social Science
+741,Humanities,,
+742,Humanities,,
+743,Humanities,,
+744,STEM,,
+745,Humanities,,
+746,Humanities,,
+747,Life Science,,
+748,Humanities,,
+749,Humanities,palaeoanthropology,Humanities
+750,Social Science,,
+751,Humanities,,
+752,STEM,,
+754,Humanities,sociology,Social Science
+755,Humanities,,
+756,Humanities,,
+757,Humanities,,
+758,Humanities,,
+759,STEM,,
+760,Humanities,,
+761,Humanities,,
+762,STEM,behavioural science,Social Science
+763,Humanities,,
+764,STEM,behavioural science,Social Science
+765,Humanities,historical demography,Social Science
+766,Humanities,,
+767,Humanities,,
+768,STEM,,
+769,Humanities,social/cultural anthropology,Humanities
+770,Humanities,,
+771,Humanities,,
+773,Humanities,,
+774,STEM,,
+775,Humanities,,
+776,Humanities,,
+777,Humanities,,
+779,Humanities,,
+780,STEM,,
+781,Humanities,social/cultural anthropology,Humanities
+782,Humanities,,
+783,Humanities,social/cultural anthropology,Humanities
+784,Humanities,mathematics,STEM
+785,Humanities,,
+786,Humanities,,
+787,Social Science,,
+788,Humanities,,
+789,Humanities,,
+790,Humanities,sociology,Social Science
+791,Life Science,,
+792,Humanities,,
+793,Humanities,,
+794,STEM,,
+795,Humanities,,
+796,Humanities,,
+797,Humanities,,
+798,Life Science,behavioural science,Social Science
+800,Humanities,,
+801,Humanities,,
+802,Humanities,,
+803,STEM,,
+804,Humanities,,
+805,Humanities,,
+806,Life Science,,
+807,Humanities,,
+809,Social Science,,
+810,Humanities,,
+811,STEM,,
+812,Humanities,physical geography,Life Science
+813,Humanities,social/cultural anthropology,Humanities
+814,Humanities,,
+815,Humanities,,
+816,Humanities,,
+817,Humanities,,
+818,STEM,,
+819,Humanities,,
+820,Humanities,,
+822,Humanities,,
+824,Humanities,,
+825,Humanities,,
+826,Humanities,,
+827,STEM,,
+829,Humanities,,
+830,Humanities,,
+831,Social Science,cognitive science,Social Science
+832,Humanities,,
+833,STEM,,
+834,Humanities,,
+835,Humanities,,
+836,Humanities,,
+837,Humanities,cognitive science,Social Science
+838,Humanities,,
+839,STEM,,
+841,Humanities,,
+843,Humanities,,
+844,Humanities,,
+845,Humanities,,
+846,Social Science,,
+847,Humanities,,
+848,Humanities,,
+849,Humanities,social/cultural anthropology,Humanities
+850,Life Science,,
+851,Humanities,,
+852,Humanities,,
+853,STEM,,
+854,Humanities,,
+855,Humanities,,
+856,Humanities,,
+858,Life Science,,
+859,Humanities,,
+860,Humanities,,
+861,Humanities,,
+862,STEM,,
+863,Humanities,,
+864,Humanities,,
+865,Life Science,,
+866,Humanities,,
+867,Humanities,,
+868,Social Science,,
+869,Humanities,,
+870,STEM,,
+871,Humanities,geographic information science,STEM
+873,Humanities,,
+874,Humanities,,
+875,Humanities,,
+876,Humanities,,
+877,STEM,,
+878,Humanities,,
+879,Humanities,,
+880,STEM,mathematics,STEM
+881,Humanities,,
+882,STEM,mathematics,STEM
+883,Humanities,,
+884,Humanities,,
+885,Humanities,,
+886,STEM,,
+887,Humanities,physical geography,Life Science
+888,Humanities,,
+889,Humanities,,
+890,Social Science,behavioural science,Social Science
+891,Humanities,,
+892,STEM,,
+893,Humanities,,
+894,Humanities,,
+895,Humanities,,
+896,Humanities,behavioural science,Social Science
+897,Humanities,,
+898,STEM,,
+899,Humanities,physical geography,Life Science
+900,Humanities,,
+901,Humanities,physical geography,Life Science
+902,Humanities,,
+903,Humanities,,
+904,Humanities,,
+905,Social Science,,
+906,Humanities,,
+907,Humanities,,
+909,Life Science,,
+910,Humanities,,
+911,Humanities,,
+912,STEM,,
+913,Humanities,,
+914,Humanities,,
+915,Humanities,,
+916,Life Science,,
+917,Life Science,,
+918,Humanities,,
+919,Humanities,,
+920,Humanities,,
+921,STEM,,
+922,Humanities,,
+923,Humanities,,
+924,Life Science,,
+925,Humanities,,
+926,Humanities,,
+927,Social Science,,
+928,Humanities,,
+929,STEM,,
+931,Humanities,physical geography,Life Science
+932,Humanities,,
+933,Humanities,,
+934,Humanities,,
+935,Humanities,,
+936,STEM,,
+937,Humanities,,
+938,Humanities,,
+939,STEM,,
+940,Humanities,,
+941,STEM,,
+942,Humanities,,
+943,Humanities,,
+944,Humanities,,
+945,STEM,,
+946,Humanities,geographic information science,STEM
+947,Humanities,,
+948,Humanities,,
+950,Humanities,,
+951,STEM,,
+952,Humanities,,
+953,Humanities,,
+954,Humanities,,
+956,Humanities,,
+957,STEM,,
+958,Humanities,geographic information science,STEM
+959,Humanities,,
+960,Humanities,geographic information science,STEM
+961,Humanities,,
+962,Humanities,,
+963,Humanities,,
+964,Social Science,,
+965,Humanities,,
+966,Humanities,,
+967,Humanities,,
+968,Life Science,,
+969,Humanities,,
+970,Humanities,,
+971,STEM,,
+972,Humanities,,
+973,Humanities,,
+974,Humanities,,
+975,Life Science,,
+976,Life Science,,
+977,Humanities,,
+978,Humanities,,
+979,Humanities,,
+980,STEM,,
+981,Humanities,,
+982,Humanities,,
+983,Life Science,,
+984,Humanities,,
+985,Humanities,,
+986,Social Science,,
+987,Humanities,,
+988,STEM,,
+989,Humanities,cognitive science,Social Science
+990,Humanities,geographic information science,STEM
+991,Humanities,,
+992,Humanities,,
+993,Humanities,,
+994,Humanities,,
+995,STEM,,
+996,Humanities,,
+997,Humanities,,
+998,STEM,,
+999,Humanities,,
+1000,STEM,,
+1001,Humanities,,
+1002,Humanities,,
+1003,Humanities,,
+1004,STEM,,
+1006,Humanities,,
+1007,Humanities,,
+1008,Social Science,,
+1009,Humanities,,
+1010,STEM,,
+1011,Humanities,,
+1012,Humanities,,
+1013,Humanities,,
+1014,Humanities,mathematics,STEM
+1015,Humanities,,
+1016,STEM,,
+1018,Humanities,,
+1020,Humanities,,
+1021,Humanities,,
+1022,Humanities,,
+1023,Social Science,,
+1024,Humanities,,
+1025,Humanities,,
+1026,Humanities,,
+1027,Life Science,,
+1028,Humanities,,
+1029,Humanities,,
+1030,STEM,,
+1031,Humanities,,
+1032,Humanities,,
+1033,Humanities,,
+1034,Life Science,,
+1035,Life Science,,
+1036,Humanities,,
+1037,Humanities,,
+1038,Humanities,,
+1039,STEM,,
+1040,Humanities,,
+1041,Humanities,,
+1042,Life Science,,
+1043,Humanities,,
+1044,Humanities,,
+1045,Social Science,,
+1046,Humanities,,
+1047,STEM,,
+1048,Humanities,behavioural science,Social Science
+1050,Humanities,,
+1051,Humanities,,
+1052,Humanities,,
+1053,Humanities,,
+1054,STEM,,
+1055,Humanities,,
+1056,Humanities,,
+1057,STEM,,
+1058,Humanities,,
+1059,STEM,,
+1060,Humanities,,
+1061,Humanities,,
+1062,Humanities,,
+1063,STEM,,
+1064,Humanities,palaeontology,Life Science
+1065,Humanities,,
+1066,Humanities,,
+1067,Social Science,,
+1068,Humanities,,
+1069,STEM,,
+1070,Humanities,,
+1071,Humanities,,
+1072,Humanities,,
+1073,Humanities,political science,Social Science
+1074,Humanities,,
+1075,STEM,,
+1076,Humanities,palaeontology,Life Science
+1077,Humanities,,
+1078,Humanities,cognitive science,Social Science
+1079,Humanities,,
+1080,Humanities,,
+1081,Humanities,,
+1082,Social Science,,
+1083,Humanities,,
+1084,Humanities,,
+1085,Humanities,,
+1086,Life Science,,
+1087,Humanities,,
+1088,Humanities,,
+1089,STEM,,
+1090,Humanities,,
+1091,Humanities,,
+1092,Humanities,,
+1093,Life Science,,
+1094,Life Science,,
+1095,Humanities,,
+1096,Humanities,,
+1097,Humanities,,
+1098,STEM,,
+1099,Humanities,,
+1100,Humanities,,
+1101,Life Science,,
+1102,Humanities,,
+1103,Humanities,,
+1104,Social Science,,
+1105,Humanities,,
+1106,STEM,,
+1108,Humanities,palaeontology,Life Science
+1109,Humanities,,
+1110,Humanities,,
+1111,Humanities,,
+1112,Humanities,,
+1113,STEM,,
+1114,Humanities,,
+1115,Humanities,,
+1116,STEM,,
+1117,Humanities,,
+1118,STEM,,
+1119,Humanities,,
+1120,Humanities,,
+1121,Humanities,,
+1122,STEM,,
+1123,Humanities,palaeoanthropology,Humanities
+1124,Humanities,,
+1125,Humanities,,
+1126,Social Science,,
+1127,Humanities,,
+1128,STEM,,
+1129,Humanities,,
+1130,Humanities,,
+1131,Humanities,,
+1132,Humanities,,
+1133,Humanities,,
+1134,STEM,,
+1135,Humanities,palaeoanthropology,Humanities
+1136,Humanities,,
+1137,Humanities,behavioural science,Social Science
+1138,Humanities,,
+1139,Humanities,,
+1140,Humanities,,
+1141,Social Science,,
+1142,Humanities,,
+1143,Humanities,,
+1144,Humanities,,
+1145,Life Science,,
+1146,Humanities,,
+1147,Humanities,,
+1148,STEM,,
+1149,Humanities,,
+1150,Humanities,,
+1151,Humanities,,
+1152,Life Science,,
+1153,Life Science,,
+1154,Humanities,,
+1155,Humanities,,
+1156,Humanities,,
+1157,STEM,,
+1158,Humanities,,
+1159,Humanities,,
+1160,Life Science,,
+1161,Humanities,,
+1162,Humanities,,
+1163,Social Science,,
+1164,Humanities,,
+1165,STEM,,
+1166,Humanities,,
+1167,Humanities,palaeoanthropology,Humanities
+1168,Humanities,,
+1169,Humanities,,
+1170,Humanities,,
+1171,Humanities,,
+1172,STEM,,
+1173,Humanities,,
+1174,Humanities,,
+1175,STEM,,
+1176,Humanities,,
+1177,STEM,,
+1178,Humanities,,
+1179,Humanities,,
+1180,Humanities,,
+1181,STEM,,
+1183,Humanities,,
+1184,Humanities,,
+1185,Social Science,,
+1186,Humanities,,
+1187,STEM,,
+1188,Humanities,,
+1189,Humanities,,
+1190,Humanities,,
+1191,Humanities,,
+1192,Humanities,,
+1193,STEM,,
+1195,Humanities,,
+1197,Humanities,,
+1198,Humanities,,
+1199,Humanities,,
+1200,Social Science,,
+1201,Humanities,,
+1202,Humanities,,
+1203,Humanities,,
+1204,Life Science,,
+1205,Humanities,,
+1206,Humanities,,
+1207,STEM,,
+1208,Humanities,,
+1209,Humanities,,
+1210,Humanities,,
+1211,Life Science,,
+1212,Life Science,,
+1213,Humanities,,
+1214,Humanities,,
+1215,Humanities,,
+1216,STEM,,
+1217,Humanities,,
+1218,Humanities,,
+1219,Life Science,,
+1220,Humanities,,
+1221,Humanities,,
+1222,Social Science,,
+1223,Humanities,,
+1224,STEM,,
+1225,Humanities,,
+1227,Humanities,,
+1228,Humanities,,
+1229,Humanities,,
+1230,Humanities,,
+1231,STEM,,
+1232,Humanities,,
+1233,Humanities,,
+1234,STEM,,
+1235,Humanities,,
+1236,STEM,,
+1237,Humanities,,
+1238,Humanities,,
+1239,Humanities,,
+1240,STEM,,
+1241,Humanities,cognitive science,Social Science
+1242,Humanities,,
+1243,Humanities,,
+1244,Social Science,,
+1245,Humanities,,
+1246,STEM,,
+1247,Humanities,,
+1248,Humanities,,
+1249,Humanities,,
+1250,Humanities,,
+1251,Humanities,,
+1252,STEM,,
+1253,Humanities,cognitive science,Social Science
+1254,Humanities,,
+1255,Humanities,mathematics,STEM
+1256,Humanities,,
+1257,Humanities,,
+1258,Humanities,,
+1259,Social Science,,
+1260,Humanities,,
+1261,Humanities,,
+1262,Humanities,,
+1263,Life Science,,
+1264,Humanities,,
+1265,Humanities,,
+1266,STEM,,
+1267,Humanities,,
+1268,Humanities,,
+1269,Humanities,,
+1270,Life Science,,
+1271,Life Science,,
+1272,Humanities,,
+1273,Humanities,,
+1274,Humanities,,
+1275,STEM,,
+1276,Humanities,,
+1277,Humanities,,
+1278,Life Science,,
+1279,Humanities,,
+1280,Humanities,,
+1281,Social Science,,
+1282,Humanities,,
+1283,STEM,,
+1284,Humanities,,
+1285,Humanities,mathematics,STEM
+1286,Humanities,,
+1287,Humanities,,
+1288,Humanities,,
+1289,Humanities,,
+1290,STEM,,
+1291,Humanities,,
+1292,Humanities,,
+1293,STEM,,
+1294,Humanities,,
+1295,STEM,,
+1296,Humanities,,
+1297,Humanities,,
+1298,Humanities,,
+1299,STEM,,
+1300,Humanities,behavioural science,Social Science
+1301,Humanities,,
+1302,Humanities,,
+1303,Social Science,,
+1304,Humanities,,
+1305,STEM,,
+1306,Humanities,,
+1307,Humanities,,
+1308,Humanities,,
+1309,Humanities,,
+1310,Humanities,,
+1311,STEM,,
+1312,Humanities,behavioural science,Social Science
+1313,Humanities,,
+1314,Humanities,,
+1315,Humanities,,
+1316,Humanities,,
+1317,Humanities,,
+1318,Social Science,,
+1319,Humanities,,
+1320,Humanities,,
+1321,Humanities,,
+1322,Life Science,,
+1323,Humanities,,
+1324,Humanities,,
+1325,STEM,,
+1326,Humanities,,
+1327,Humanities,,
+1328,Humanities,,
+1329,Life Science,,
+1330,Life Science,,
+1331,Humanities,,
+1332,Humanities,,
+1333,Humanities,,
+1334,STEM,,
+1335,Humanities,,
+1336,Humanities,,
+1337,Life Science,,
+1338,Humanities,,
+1339,Humanities,,
+1340,Social Science,,
+1341,Humanities,,
+1342,STEM,,
+1343,Humanities,,
+1344,Humanities,,
+1345,Humanities,,
+1346,Humanities,,
+1347,Humanities,,
+1348,Humanities,,
+1349,STEM,,
+1350,Humanities,,
+1351,Humanities,,
+1352,STEM,,
+1353,Humanities,,
+1354,STEM,,
+1355,Humanities,,
+1356,Humanities,,
+1357,Humanities,,
+1358,STEM,,
+1360,Humanities,,
+1361,Humanities,,
+1362,Social Science,,
+1363,Humanities,,
+1364,STEM,,
+1365,Humanities,,
+1366,Humanities,,
+1367,Humanities,,
+1368,Humanities,,
+1369,Humanities,,
+1370,STEM,,
+1372,Humanities,,
+1373,Humanities,,
+1374,Humanities,,
+1375,Humanities,,
+1376,Humanities,,
+1377,Social Science,,
+1378,Humanities,,
+1379,Humanities,,
+1380,Humanities,,
+1381,Life Science,,
+1382,Humanities,,
+1383,Humanities,,
+1384,STEM,,
+1385,Humanities,,
+1386,Humanities,,
+1387,Humanities,,
+1388,Life Science,,
+1389,Life Science,,
+1390,Humanities,,
+1391,Humanities,,
+1392,Humanities,,
+1393,STEM,,
+1394,Humanities,,
+1395,Humanities,,
+1396,Life Science,,
+1397,Humanities,,
+1398,Humanities,,
+1399,Social Science,,
+1400,Humanities,,
+1401,STEM,,
+1402,Humanities,,
+1403,Humanities,,
+1404,Humanities,,
+1405,Humanities,,
+1406,Humanities,,
+1407,Humanities,,
+1408,STEM,,
+1409,Humanities,,
+1410,Humanities,,
+1411,STEM,,
+1412,Humanities,,
+1413,STEM,,
+1414,Humanities,,
+1415,Humanities,,
+1416,Humanities,,
+1417,STEM,,
+1418,Humanities,mathematics,STEM
+1419,Humanities,,
+1420,Humanities,,
+1421,Social Science,,
+1422,Humanities,,
+1423,STEM,,
+1424,Humanities,,
+1425,Humanities,,
+1426,Humanities,,
+1427,Humanities,,
+1428,Humanities,,
+1429,STEM,,
+1430,Humanities,mathematics,STEM
+1431,Humanities,,
+1432,Humanities,,
+1433,Humanities,,
+1434,Humanities,,
+1435,Humanities,,
+1436,Social Science,,
+1437,Humanities,,
+1438,Humanities,,
+1439,Humanities,,
+1440,Life Science,,
+1441,Humanities,,
+1442,Humanities,,
+1443,STEM,,
+1444,Humanities,,
+1445,Humanities,,
+1446,Humanities,,
+1447,Life Science,,
+1448,Life Science,,
+1449,Humanities,,
+1450,Humanities,,
+1451,Humanities,,
+1452,STEM,,
+1453,Humanities,,
+1454,Humanities,,
+1455,Life Science,,
+1456,Humanities,,
+1457,Humanities,,
+1458,Social Science,,
+1459,Humanities,,
+1460,STEM,,
+1461,Humanities,,
+1462,Humanities,,
+1463,Humanities,,
+1464,Humanities,,
+1465,Humanities,,
+1466,Humanities,,
+1467,STEM,,
+1468,Humanities,,
+1469,Humanities,,
+1470,STEM,,
+1471,Humanities,,
+1472,STEM,,
+1473,Humanities,,
+1474,Humanities,,
